@@ -1,0 +1,20 @@
+{
+  "blockId": "vI_uvfgkoMDGsjZ_pg-ui",
+  "name": "hello_api",
+  "type": "function",
+  "source": {
+    "https": "https://github.com/that-coder/cc.git",
+    "ssh": "git@github.com:that-coder/cc.git",
+    "branch": "block_hello_api"
+  },
+  "parentBlockIDs": [
+    "pw-g2Qk_TumGcXji2QC8x"
+  ],
+  "repoType": "mono",
+  "language": "nodejs",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "isPublic": true,
+  "start": "node index.js"
+}
