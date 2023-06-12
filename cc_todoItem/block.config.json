@@ -2,8 +2,8 @@
   "name": "cc_todoItem",
   "type": "ui-elements",
   "source": {
-    "https": "",
-    "ssh": "",
+    "https": "https://github.com/that-coder/cc.git",
+    "ssh": "git@github.com:that-coder/cc.git",
     "branch": "block_cc_todoItem"
   },
   "language": "js",

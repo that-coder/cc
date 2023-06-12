@@ -2,8 +2,8 @@
   "name": "cc_todoContainer",
   "type": "ui-container",
   "source": {
-    "https": "",
-    "ssh": "",
+    "https": "https://github.com/that-coder/cc.git",
+    "ssh": "git@github.com:that-coder/cc.git",
     "branch": "block_cc_todoContainer"
   },
   "language": "js",
