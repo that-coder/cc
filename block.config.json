@@ -1,0 +1,36 @@
+{
+  "name": "cc",
+  "type": "package",
+  "source": {
+    "https": "https://github.com/that-coder/cc.git",
+    "ssh": "git@github.com:that-coder/cc.git",
+    "branch": "block_cc"
+  },
+  "dependencies": {
+    "cc_listTodos": {
+      "directory": "cc_listTodos"
+    },
+    "cc_removeTodo": {
+      "directory": "cc_removeTodo"
+    },
+    "cc_addTodo": {
+      "directory": "cc_addTodo"
+    },
+    "cc_todoInput": {
+      "directory": "cc_todoInput"
+    },
+    "cc_todoItem": {
+      "directory": "cc_todoItem"
+    },
+    "cc_todoContainer": {
+      "directory": "cc_todoContainer"
+    }
+  },
+  "blockId": "pw-g2Qk_TumGcXji2QC8x",
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono"
+}
