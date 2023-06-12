@@ -1,0 +1,22 @@
+{
+  "type": "function",
+  "source": {
+    "https": "https://github.com/that-coder/cc.git",
+    "ssh": "git@github.com:that-coder/cc.git",
+    "branch": "block_cc_removeTodo"
+  },
+  "language": "nodejs",
+  "start": "node index.js",
+  "build": "npm run build",
+  "postPull": "npm i",
+  "name": "cc_removeTodo",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "blockId": "tJsWBoJnzzyf9V-_NGD5h",
+  "isPublic": true,
+  "repoType": "mono",
+  "parentBlockIDs": [
+    "pw-g2Qk_TumGcXji2QC8x"
+  ]
+}
