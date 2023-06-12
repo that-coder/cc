@@ -1,0 +1,22 @@
+{
+  "name": "cc_todoItem",
+  "type": "ui-elements",
+  "source": {
+    "https": "",
+    "ssh": "",
+    "branch": "block_cc_todoItem"
+  },
+  "language": "js",
+  "start": "npx webpack-dev-server",
+  "build": "npx webpack",
+  "postPull": "npm i",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "blockId": "B91HLHXsmH10enXu2Jz1U",
+  "isPublic": true,
+  "repoType": "mono",
+  "parentBlockIDs": [
+    "pw-g2Qk_TumGcXji2QC8x"
+  ]
+}

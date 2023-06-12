@@ -1,0 +1,22 @@
+{
+  "type": "function",
+  "source": {
+    "https": "",
+    "ssh": "",
+    "branch": "block_cc_listTodos"
+  },
+  "language": "nodejs",
+  "start": "node index.js",
+  "build": "npm run build",
+  "postPull": "npm i",
+  "name": "cc_listTodos",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "blockId": "7OV115n7DV7hBNaatMoE-",
+  "isPublic": true,
+  "repoType": "mono",
+  "parentBlockIDs": [
+    "pw-g2Qk_TumGcXji2QC8x"
+  ]
+}
