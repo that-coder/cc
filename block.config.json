@@ -1,0 +1,22 @@
+{
+  "type": "function",
+  "source": {
+    "https": "https://github.com/that-coder/cc.git",
+    "ssh": "git@github.com:that-coder/cc.git",
+    "branch": "block_cc_addTodo"
+  },
+  "language": "nodejs",
+  "start": "node index.js",
+  "build": "npm run build",
+  "postPull": "npm i",
+  "name": "cc_addTodo",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "blockId": "JpCYNPjeHhdume2vML4u1",
+  "isPublic": true,
+  "repoType": "mono",
+  "parentBlockIDs": [
+    "pw-g2Qk_TumGcXji2QC8x"
+  ]
+}
